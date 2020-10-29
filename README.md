@@ -1,4 +1,4 @@
-# 🤖 Discord bot van DiversityRP
+# 🤖 DiversityRP Discord bot
 
 ![alt text](https://i.imgur.com/vgdoyyJ.png)
 
